@@ -1,0 +1,66 @@
+Enter 0 if you want to exit,1 to continue
+
+Enter the address you want to search without spaces:
+
+Address is:Australia
+
+Records were not found in the database. Calling the API now:
+
+Address is
+
+Australia
+
+API response
+
+Latitude is:-25.0
+
+Longitude is:134.0
+
+Written into table.
+
+Enter 0 if you want to exit,1 to continue
+
+Enter 0 if you want to exit,1 to continue
+
+Enter the address you want to search without spaces:
+
+Address is:mysore
+
+Records were found in the cache
+
+Latitude is:12.3052
+
+Longitude is:76.6554
+
+DB updated after cache lookup
+
+Enter 0 if you want to exit,1 to continue
+
+Enter the address you want to search without spaces:
+
+Address is:chennai
+
+Records were not found in the database. Calling the API now:
+
+Address is
+
+chennai
+
+Could not establish a proper connection. Please check your internet.
+
+Enter 0 if you want to exit,1 to continue
+
+Enter 0 if you want to exit,1 to continue
+
+Enter the address you want to search without spaces:
+
+Address is:Bangalore
+
+Database lookup
+
+Location:bangalore
+Latitude:12.9791
+Longitude77.5913
+
+Enter 0 if you want to exit,1 to continue
+

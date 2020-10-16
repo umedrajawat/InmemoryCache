@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="196655cf-ae15-43c4-9e8d-7fef1f069f94" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XIL5bSSTiFmwq1jAKPRiLzeGcc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringProjects" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kdu.assignment3.mainclasspackage.MainClass" />
+      <module name="Assignment3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="196655cf-ae15-43c4-9e8d-7fef1f069f94" name="Default Changelist" comment="" />
+      <created>1580728479965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580728479965</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="271" y="21" width="800" height="685" key="#Project_Structure" timestamp="1581096999815">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state x="271" y="21" width="800" height="685" key="#Project_Structure/67.27.1213.692@67.27.1213.692" timestamp="1581096999815" />
+    <state x="383" y="173" width="576" height="398" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580993287593">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state x="383" y="173" width="576" height="398" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1213.692@67.27.1213.692" timestamp="1580993287593" />
+    <state x="484" y="19" width="374" height="634" key="#com.intellij.ide.util.MemberChooser" timestamp="1580968688499">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state x="484" y="19" width="374" height="634" key="#com.intellij.ide.util.MemberChooser/67.27.1213.692@67.27.1213.692" timestamp="1580968688499" />
+    <state x="331" y="263" width="762" height="153" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1581097173885">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state x="331" y="263" width="762" height="153" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/67.27.1213.692@67.27.1213.692" timestamp="1581097173885" />
+    <state x="409" y="109" width="524" height="510" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1580994531068">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state x="409" y="109" width="524" height="510" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/67.27.1213.692@67.27.1213.692" timestamp="1580994531068" />
+    <state x="167" y="109" width="1013" height="502" key="DiffContextDialog" timestamp="1580933560620">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state x="167" y="109" width="1013" height="502" key="DiffContextDialog/67.27.1213.692@67.27.1213.692" timestamp="1580933560620" />
+    <state x="459" y="118" width="424" height="492" key="FileChooserDialogImpl" timestamp="1580728529860">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state x="459" y="118" width="424" height="492" key="FileChooserDialogImpl/67.27.1213.692@67.27.1213.692" timestamp="1580728529860" />
+    <state width="1167" height="317" key="GridCell.Tab.0.bottom" timestamp="1581347975619">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state width="1167" height="317" key="GridCell.Tab.0.bottom/67.27.1213.692@67.27.1213.692" timestamp="1581347975619" />
+    <state width="1167" height="317" key="GridCell.Tab.0.center" timestamp="1581347975619">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state width="1167" height="317" key="GridCell.Tab.0.center/67.27.1213.692@67.27.1213.692" timestamp="1581347975619" />
+    <state width="1167" height="317" key="GridCell.Tab.0.left" timestamp="1581347975619">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state width="1167" height="317" key="GridCell.Tab.0.left/67.27.1213.692@67.27.1213.692" timestamp="1581347975619" />
+    <state width="1167" height="317" key="GridCell.Tab.0.right" timestamp="1581347975619">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state width="1167" height="317" key="GridCell.Tab.0.right/67.27.1213.692@67.27.1213.692" timestamp="1581347975619" />
+    <state width="1213" height="534" key="GridCell.Tab.1.bottom" timestamp="1580934001074">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state width="1213" height="534" key="GridCell.Tab.1.bottom/67.27.1213.692@67.27.1213.692" timestamp="1580934001074" />
+    <state width="1213" height="534" key="GridCell.Tab.1.center" timestamp="1580934001072">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state width="1213" height="534" key="GridCell.Tab.1.center/67.27.1213.692@67.27.1213.692" timestamp="1580934001072" />
+    <state width="1213" height="534" key="GridCell.Tab.1.left" timestamp="1580934001072">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state width="1213" height="534" key="GridCell.Tab.1.left/67.27.1213.692@67.27.1213.692" timestamp="1580934001072" />
+    <state width="1213" height="534" key="GridCell.Tab.1.right" timestamp="1580934001073">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state width="1213" height="534" key="GridCell.Tab.1.right/67.27.1213.692@67.27.1213.692" timestamp="1580934001073" />
+    <state x="209" y="19" width="924" height="692" key="Maven.ArtifactSearchDialog" timestamp="1580880323529">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state x="209" y="19" width="924" height="692" key="Maven.ArtifactSearchDialog/67.27.1213.692@67.27.1213.692" timestamp="1580880323529" />
+    <state x="115" y="111" width="1112" height="506" key="caller.chooser.dialog" timestamp="1580965709664">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state x="115" y="111" width="1112" height="506" key="caller.chooser.dialog/67.27.1213.692@67.27.1213.692" timestamp="1580965709664" />
+    <state x="333" y="173" key="com.intellij.ide.util.TipDialog" timestamp="1581347869839">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state x="333" y="173" key="com.intellij.ide.util.TipDialog/67.27.1213.692@67.27.1213.692" timestamp="1581347869839" />
+    <state x="372" y="19" width="599" height="692" key="refactoring.ChangeSignatureDialog" timestamp="1580990137274">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state x="372" y="19" width="599" height="692" key="refactoring.ChangeSignatureDialog/67.27.1213.692@67.27.1213.692" timestamp="1580990137274" />
+    <state x="337" y="10" width="672" height="676" key="search.everywhere.popup" timestamp="1580880196880">
+      <screen x="67" y="27" width="1213" height="692" />
+    </state>
+    <state x="337" y="10" width="672" height="676" key="search.everywhere.popup/67.27.1213.692@67.27.1213.692" timestamp="1580880196880" />
+  </component>
+</project>
